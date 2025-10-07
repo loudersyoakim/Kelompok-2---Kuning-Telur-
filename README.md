@@ -84,5 +84,14 @@ Proyek ini dikembangkan sebagai bagian dari penelitian terkait **pengenalan obje
 
 ---
 
+## 📚 Referensi
+
+Koolagudi, S. G., Kumar, S. A., Ramana, K., Kumar, S. V. N. S., Soujanya, K. L. S., Madhuri, C. B., Suma, V., & Prasad, C. R. K. V. S. S. L. V. (2022). *Identification of plant-leaf diseases using a convolutional neural network.* **Wireless Personal Communications, 125**(3), 2451–2472.  
+
+Manav. (2021, Mei). *Convolutional Neural Networks (CNNs) in Deep Learning.* **Analytics Vidhya.** Diakses pada 11 September 2025, dari [www.analyticsvidhya.com](https://www.analyticsvidhya.com/blog/2021/05/convolutional-neural-networks-cnn/)  
+
+Jones, T. (2023, Februari 13). *How Long Do Eggs Last Before They Go Bad?* **Healthline.** Diakses pada 11 September 2025, dari [www.reallygreatsite.com](https://www.reallygreatsite.com)
+
+---
 💡 *Jika Anda ingin mengembangkan proyek ini lebih lanjut, silakan gunakan dataset dan model yang disediakan dengan mencantumkan referensi ke repositori ini.*
 
