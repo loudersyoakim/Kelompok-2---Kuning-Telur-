@@ -52,35 +52,9 @@ Berikut adalah struktur direktori dan penjelasan file utama dalam proyek ini.
 
 ---
 
-## 🧠 Ringkasan Teknologi yang Digunakan
-
-- **Python 3.x**
-- **TensorFlow / Keras** untuk pelatihan CNN  
-- **OpenCV** dan **scikit-image** untuk pra-pemrosesan citra  
-- **Pandas** dan **NumPy** untuk pengolahan data tabular  
-- **Matplotlib / Seaborn** untuk visualisasi hasil
-
----
-
-## 🚀 Cara Menggunakan
-
-1. Clone repositori ini atau unduh folder proyek dari Google Drive.  
-2. Buka salah satu notebook (misalnya `01_Computer Vision.ipynb`) di **Jupyter Notebook** atau **Google Colab**.  
-3. Jalankan setiap sel sesuai urutan untuk mereplikasi hasil model.  
-4. Simpan model hasil pelatihan di folder `Model/`.
-
----
-
-## 📊 Hasil Sementara
-
-- Model terbaik diperoleh pada varian **ModelCNN_9** dengan akurasi tertinggi untuk klasifikasi multi-level.  
-- Hasil prediksi visual dapat divisualisasikan dengan confusion matrix dan grafik akurasi-loss.
-
----
-
 ## ✍️ Pengembang
 
-Proyek ini dikembangkan sebagai bagian dari penelitian terkait **pengenalan objek berbasis citra digital** dengan fokus pada **klasifikasi telur** berdasarkan tingkat kesegaran dan jenisnya.
+Proyek ini dikembangkan sebagai bagian dari penelitian terkait **pengenalan objek berbasis citra digital** Matakuliah Computer Vision dengan fokus pada **klasifikasi telur** berdasarkan tingkat kesegaran dan jenisnya.
 
 ---
 
